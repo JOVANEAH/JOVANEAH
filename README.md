@@ -49,16 +49,11 @@
 - ✨ Reading
 - ✨ Playing basketball
 
-</br>
-</br>
-</br>
 
 
 <!-- programm -->
 # Languages & Tools:
-</br>
 
-<p align="center">
 
 ```js
  everything is still in the learning stage
@@ -66,13 +61,13 @@
  ```javascript
 const Jovaneah = {
   pronouns: "he" | "him",
-  code: [Python, HTML, CSS, Dart],
-  tools: [React, , ReactNative, Node, Styled-Components, Flutter],
+  code: [Python, HTML, CSS, JS, Dart, PHP, C++],
+  tools: [Fast API, Flask, MySQL, React, ReactNative, Node, Styled-Components, Flutter],
   otherHobbiesAndStuff: {       
-                        Studying: "Always something new! now playing with Dart",
-                        Music: "Rnla X yaeow Try to be Better",
+                        Studying: "Cyber Security and Python",
+                        Music: "Photograph - Ed Sheeran",
                       },
- challenge: "I try to at least learn something new every day"
+ challenge: "Trying to make web applications"
 }
 ```
 
