@@ -36,7 +36,8 @@
 ```
 
 ### - Learning :
-- ✨ Create AI
+- ✨ Create Artificial Intelligent
+- ✨ Python API Backend
 - ✨ Create Web
 - ✨ Cyber Security
 - ✨ Capture The Flag
@@ -53,7 +54,9 @@
 
 <!-- programm -->
 # Languages & Tools:
-
+- ✨ Python | Fast API
+- ✨ Typescript
+- ✨ PHP
 
 ```js
  everything is still in the learning stage
