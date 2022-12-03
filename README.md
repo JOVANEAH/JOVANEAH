@@ -109,5 +109,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
  
 ```js
- thanks you and see you again 
+ thank you and see you again 
  ```
