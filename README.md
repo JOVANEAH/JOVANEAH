@@ -9,6 +9,13 @@
   <a href="https://github.com/Jovaneah/Simple-View-Counter">
     <img src="https://api.visitorbadge.io/api/VisitorHit?user=Jovaneah&repo=github-visitors-badge&countColor=%237B1E7A" />
 </p>
+
+<!--SPOTIFY-->
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31vj2myz3if2rits4jkxryryazx4)
+
+  </td>
+  <td width="50%">
+
   <br><br>
   <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="300">
 </h3>
