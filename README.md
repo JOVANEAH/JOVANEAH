@@ -1,6 +1,7 @@
 <h3 align="center">
-  Welcome to my page!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Halo! Saya Jovan Emmanuel, programmer yang masih harus banyak belajar dan penuh rasa ingin tahu. Klik <a href="https://jovaneah.github.io" target="_blank"/>website</a> saya.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><br><br>
+  <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="300">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -32,23 +33,40 @@
 
 <!-- about -->
 # About ME 💬 :
-- I'm 16 years old cyber security and Python backend enthusiast from Indonesia. 
-```
+- I'm 16 years old cyber security and Python backend enthusiast from Indonesia.
+<p>
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="300">
+</p>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
 ### - Learning :
-- ✨ Create Artificial Intelligent
+- ✨ Artificial Intelligent
+- ✨ Fast API Python
+- ✨ Flask
+- ✨ Django
+- ✨ MySQL, SQLAlchemy
 - ✨ Python API Backend
-- ✨ Create Web
+- ✨ HTML, CSS, JS
+- ✨ React JS
+- ✨ Next JS
+- ✨ Node JS
 - ✨ Cyber Security
 - ✨ Capture The Flag
   
 ### - Hobbies : 
-- ✨ Coding
-- ✨ Writing
-- ✨ Swimming
-- ✨ Cooking
-- ✨ Reading
-- ✨ Playing basketball
+- ✨ Coding👨🏻‍💻
+- ✨ Writing✍🏻
+- ✨ Swimming🏊🏻
+- ✨ Cooking🍳
+- ✨ Reading📚
+- ✨ Playing basketball🏀
+- ✨ Playing Guitar🎸
 
 
 
@@ -57,6 +75,7 @@
 - ✨ Python | Fast API
 - ✨ Typescript
 - ✨ PHP
+- ✨ React JS
 
 ```js
  everything is still in the learning stage
