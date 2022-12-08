@@ -20,11 +20,6 @@
   <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="300">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=3500&pause=1000&color=F70E0E&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Cyber+Security+Enthusiast;Python+BackEnd+Developer;Full-stack+Web+Developer;3%2B+Years+Experiences+in+Coding" alt="Typing SVG" /></a>
-</p>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://wa.me/6281385744255"><img width="32px" alt="WhatsApp" title="WhatsApp" src="https://icons-for-free.com/iconfiles/png/512/rs+social+whatsapp+icon-1320190674429132495.png"/></a>
@@ -41,7 +36,11 @@
 
 <!-- about -->
 # About ME 💬 :
-- I'm 16 years old cyber security and Python backend enthusiast from Indonesia.
+- I'm 16 years old cyber security and Python backend enthusiast from Indonesia.<br>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=3500&pause=1000&color=F70E0E&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Cyber+Security+Enthusiast;Python+BackEnd+Developer;Full-stack+Web+Developer;3%2B+Years+Experiences+in+Coding" alt="Typing SVG" /></a>
+</p>
 <p>
   <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="300">
 </p>
