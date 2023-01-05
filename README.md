@@ -1,6 +1,6 @@
 <h3>
-  Halo! Saya Jovan Emmanuel.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><br>
-  Programmer yang masih harus banyak belajar dan penuh rasa ingin tahu. Klik <a href="https://jovaneah.github.io" target="_blank"/>website</a> saya untuk lihat selengkapnya.<br><br>
+  Hello! I'm Jovan Emmanuel.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><br>
+  A web developer, backend and cyber security enthusiast. click <a href="https://jovaneah.github.io" target="_blank"/> my website</a> to see my portfolio.<br><br>
   <p>
   <a href="https://github.com/Jovaneah?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Jovaneah"/></a>
